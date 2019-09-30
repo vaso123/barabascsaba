@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bcsaba.iml" filepath="$PROJECT_DIR$/.idea/bcsaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bcsaba.lh.iml" filepath="$PROJECT_DIR$/.idea/bcsaba.lh.iml" />
     </modules>
   </component>
 </project>
